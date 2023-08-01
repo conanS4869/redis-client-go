@@ -1,4 +1,8 @@
 ```text
+# wails主网
+https://wails.io/
+# 本项目参考
+
 # 安装
 go install github.com/wailsapp/wails/v2/cmd/wails@latest
 # 初始化项目
