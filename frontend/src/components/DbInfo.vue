@@ -25,7 +25,7 @@ function getDBInfo() {
 
 <template>
 <main>
-  <el-button type="primary" @click="getDbInfo" link>详情</el-button>
+  <el-button type="primary" @click="getDBInfo" link>详情</el-button>
   <el-dialog
       v-model="dialogVisible"
       title="数据库详情"
